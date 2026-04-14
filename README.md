@@ -1,2 +1,34 @@
-# IA-InteligenciaArtificial
-Material didádico para o curso básico de IA
+# 📘 Lógica e Linguagem de Programação (Python)
+
+Repositório com os slides das aulas apresentados em sala.
+
+---
+
+## 📚 Conteúdo das aulas
+
+### 🟢 Módulo 1 — Fundamentos
+
+- [Aula 01 — Introdução](./a01-Conceito-Historico/slides.pdf)
+- [Aula 02 — Variáveis](./a02-Resolucao-Por-Busca/slides.pdf)
+
+
+---
+
+## 📌 Como usar
+
+- Clique na aula desejada
+- O slide abrirá direto no navegador
+- Você também pode baixar o PDF
+
+---
+
+## ⚠️ Observações
+
+- Este material é de apoio às aulas
+- Os exemplos e explicações completas são apresentados em sala
+
+---
+
+## 👨‍🏫 Professor
+
+Material desenvolvido para uso em aula.
