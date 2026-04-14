@@ -8,8 +8,8 @@ Repositório com os slides das aulas apresentados em sala.
 
 ### 🟢 Módulo 1 — Fundamentos
 
-- [Aula 01 — Introdução](./a01-Conceito-Historico/slides.pdf)
-- [Aula 02 — Variáveis](./a02-Resolucao-Por-Busca/slides.pdf)
+- [Aula 01 — Conceito de IA e Histórico](./a01-Conceito-Historico/slides.pdf)
+- [Aula 02 — Resolução de Problemas por Busca](./a02-Resolucao-Por-Busca/slides.pdf)
 
 
 ---
