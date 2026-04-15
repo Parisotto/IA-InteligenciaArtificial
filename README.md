@@ -1,3 +1,5 @@
+<img src='logo-ia.png' width=300 />
+
 # 📘 Inteligência Artificial
 
 Repositório com os slides das aulas apresentados em sala.
