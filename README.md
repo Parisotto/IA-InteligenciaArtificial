@@ -1,4 +1,4 @@
-# 📘 Lógica e Linguagem de Programação (Python)
+# 📘 Inteligência Artificial
 
 Repositório com os slides das aulas apresentados em sala.
 
@@ -29,6 +29,6 @@ Repositório com os slides das aulas apresentados em sala.
 
 ---
 
-## 👨‍🏫 Professor
+## 👨‍🏫 Professor Parisotto
 
 Material desenvolvido para uso em aula.
