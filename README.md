@@ -1,4 +1,4 @@
-<img src='logo-ia.png' width=300 />
+<img src='banner-ia.png' width=100% />
 
 # 📘 Inteligência Artificial
 
