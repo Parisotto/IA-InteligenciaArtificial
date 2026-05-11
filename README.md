@@ -14,7 +14,8 @@ Repositório com os slides das aulas apresentados em sala.
 - [Aula 02 — Resolução de Problemas por Busca](./a02-Resolucao-Por-Busca/slides.pdf)
 - [Aula 03 — Busca Informada](./a03-Busca-Informada/slides.pdf)
 - [Aula 04 — Jogos](./a04-Jogos/slides.pdf)
-
+- [Aula 05 — Redes Neurais](./a05-Redes-Neurais/slides.pdf)
+- [Aula 05 — Redes Neurais - Continuação](./a05-Redes-Neurais-Continuação/slides.pdf)
 
 ---
 
