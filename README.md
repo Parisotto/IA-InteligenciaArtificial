@@ -20,6 +20,8 @@ Repositório com os slides das aulas apresentados em sala.
 - [Aula 08 — Tipos de IA](./a08-Tipos-de-IA/slides.pdf)
 - [Aula 09 — Impactos Sociais e Éticos](./a09-Impactos-Sociais/slides.pdf)
 - [Aula 10 — Tomada de Decisão](./a10-Tomada-de-Decisao/slides.pdf)
+- [Aula 11 — IAGen](./a11-IAGen/slides.pdf)
+- [Aula 12 — Aprendizado-IAGen](./a12-Aprendizado-IAGen/slides.pdf)
 
 ---
 
