@@ -14,7 +14,7 @@ Repositório com os slides das aulas apresentados em sala.
 - [Aula 02 — IA História até Hoje](slides/a02-IA-HistoriaAteHoje/slides.pdf)
 - [Aula 03 — A IA no Cotidiano](slides/a03-A-IA-no-Cotidiano/slides.pdf)
 - [Aula 04 — Tipos de IA](slides/a04-Tipos-de-IA/slides.pdf)
-- [Aula 05 — Impactos Sociais e Éticos](slides/a05-Impac5os-Sociais/slides.pdf)
+- [Aula 05 — Impactos Sociais e Éticos](slides/a05-Impactos-Sociais/slides.pdf)
 - [Aula 06 — Tomada de Decisão](slides/a06-Tomada-de-Decisao/slides.pdf)
 - [Aula 07 — IAGen](slides/a07-IAGen/slides.pdf)
 - [Aula 08 — Aprendizado-IAGen](slides/a08-Aprendizado-IAGen/slides.pdf)
