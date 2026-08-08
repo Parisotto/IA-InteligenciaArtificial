@@ -10,18 +10,14 @@ Repositório com os slides das aulas apresentados em sala.
 
 ### 🟢 Módulo 1 — Fundamentos
 
-- [Aula 01 — Conceito de IA e Histórico](./a01-Conceito-Historico/slides.pdf)
-- [Aula 02 — Resolução de Problemas por Busca](./a02-Resolucao-Por-Busca/slides.pdf)
-- [Aula 03 — Busca Informada](./a03-Busca-Informada/slides.pdf)
-- [Aula 04 — Jogos](./a04-Jogos/slides.pdf)
-- [Aula 05 — IA Hoje](./a05-IA-Hoje/slides.pdf)
-- [Aula 06 — IA História até Hoje](./a06-IA-HistoriaAteHoje/slides.pdf)
-- [Aula 07 — A IA no Cotidiano](./a07-A-IA-no-Cotidiano/slides.pdf)
-- [Aula 08 — Tipos de IA](./a08-Tipos-de-IA/slides.pdf)
-- [Aula 09 — Impactos Sociais e Éticos](./a09-Impactos-Sociais/slides.pdf)
-- [Aula 10 — Tomada de Decisão](./a10-Tomada-de-Decisao/slides.pdf)
-- [Aula 11 — IAGen](./a11-IAGen/slides.pdf)
-- [Aula 12 — Aprendizado-IAGen](./a12-Aprendizado-IAGen/slides.pdf)
+- [Aula 01 — IA Hoje](slides/a01-IA-Hoje/slides.pdf)
+- [Aula 02 — IA História até Hoje](slides/a02-IA-HistoriaAteHoje/slides.pdf)
+- [Aula 03 — A IA no Cotidiano](slides/a03-A-IA-no-Cotidiano/slides.pdf)
+- [Aula 04 — Tipos de IA](slides/a04-Tipos-de-IA/slides.pdf)
+- [Aula 05 — Impactos Sociais e Éticos](slides/a05-Impac5os-Sociais/slides.pdf)
+- [Aula 06 — Tomada de Decisão](slides/a06-Tomada-de-Decisao/slides.pdf)
+- [Aula 07 — IAGen](slides/a07-IAGen/slides.pdf)
+- [Aula 08 — Aprendizado-IAGen](slides/a08-Aprendizado-IAGen/slides.pdf)
 
 ---
 
