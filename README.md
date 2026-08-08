@@ -1,4 +1,4 @@
-<img src='banner-ia.jpg' width=100% />
+<img src='imagens/banner-ia.jpg' width=100% />
 
 # 📘 Inteligência Artificial
 
@@ -34,7 +34,7 @@ Repositório com os slides das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
-<img src='logo-ia.png' width=25% />
+<img src='imagens/logo-ia.png' width=25% />
 
 ---
 
